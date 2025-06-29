@@ -56,10 +56,6 @@ header{
   width: 100%;
   border: 5px solid black;
 }
-.dv h1{
-  color: white;
-  font-size: 3rem;
-}
 .dv a{
   font-size: 2rem;
   color: black;
